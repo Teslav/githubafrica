@@ -1,0 +1,451 @@
+<html>
+
+<head>
+ <link rel="stylesheet" href="estilos.css">
+
+    <title>Medio Natural de África</title>
+   
+</head>
+<body>
+
+    <header>
+        <h1>Medio Natural de África</h1>
+    </header>
+
+     <nav>
+        <ul>
+            <li><a href="#fauna">Fauna</a></li>
+            <li><a href="#flora">Flora</a></li>
+            <li><a href="#ecosistemas">Ecosistemas</a></li>
+           <li><a href="#historia">Historia natural</a></li>
+         
+          <li><a href="#amenazas">Amenazas a la biodiversidad</a></li>
+            <li><a href="#protección">Protección del medio </a></li>
+           
+        </ul>
+    </nav>
+ 
+ 
+     <article>
+       <main>
+         
+          </section>
+
+            <section id="intro">
+             
+               <img src="https://cdn.prgloo.com/media/af96391119474967adc5bb0f2cc66956.jpg?width=1200&height=1800" alt="Macaco subido a un ciervo"   width="307" >
+             
+         
+               <img src="    https://pbs.twimg.com/media/F766hp4bgAAloPb.jpg:large" alt="Leona y sus crías sorprendiendo a un búfalo"   width="308.37" >
+             
+             
+               <img src="    https://content.api.news/v3/images/bin/c7229fb5836a4732c2ee923d33f49959" alt="Un marsupial en la selva"   width="274" >
+             
+             
+              <br/>
+             
+             
+             
+             
+                <p id="pintro" > El medio natural africano abarca una infinidad de especies de animales y plantas, así como la relación que estos desarrollan con el espacio y los ecosistemas.  África alberga el 25% de la diversidad biológica mundial y es uno de los pocos lugares en la Tierra donde la vida sigue su curso de manera auténtica; un verdadero santuario natural. Sin embargo, pesar de su grandeza, este entorno enfrenta desafíos, como la pérdida de hábitat y la caza furtiva, que amenazan a la rica fauna y flora. Esta página web pretende explorar la asombrosa fauna, flora y ecosistemas de África, y descubrir cómo podemos proteger y preservar este invaluable tesoro natural.
+</p>
+             
+               
+            </section>
+         
+         
+         
+         
+            <section id="fauna">
+                <h2>Fauna Africana</h2>
+                             <br/>
+             
+         
+   
+    <p>La fauna de África, en su sentido más amplio, abarca todos los animales que habitan en el continente africano, incluyendo sus mares circundantes y las islas cercanas. La región más característica de la fauna africana se encuentra en la ecorregión Afrotropical, antes conocida como etíope, situada principalmente dentro de los trópicos, tanto al norte como al sur del ecuador, lo que crea condiciones propicias para una diversidad notable de vida silvestre.</p>
+             
+            <hr/>
+
+             <h3>Mamíferos</h3>
+              <div class="contenedor">
+  <div class="texto">
+              <p>
+        África alberga una rica diversidad de mamíferos, con más de 1100 especies identificadas hasta ahora. Entre los carnívoros se encuentran las hienas, licaones, guepardos, leopardos, servales y mangostas. Los roedores africanos también son numerosos, desempeñando roles importantes en los ecosistemas. Los ungulados incluyen desde las majestuosas jirafas hasta ágiles antílopes como gacelas e impalas. En cuanto a los primates, se encuentran gorilas, chimpancés, babuinos, colobos, cercopitecos, mandriles y varias especies de monos. Otras especies notables incluyen pangolines, cánidos como zorros orejudos y chacales, y mustélidos como nutrias y comadrejas, importantes para el control de plagas.</p> </div>
+  <div class="imagenes">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_15.jpg/800px-Elefante_africano_de_sabana_%28Loxodonta_africana%29%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_15.jpg" alt="Elefante">
+    <img src="https://media.traveler.es/photos/61377ec172cad4b2dbd5f33a/master/w_1600%2Cc_limit/81687.jpg" alt="Imagen 2">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TheCheethcat.jpg/280px-TheCheethcat.jpg" alt="Imagen 3">
+  </div>
+</div>
+
+
+<p>Los Cinco Grandes son león, leopardo, elefante africano, rinoceronte africano y búfalo africano. El león es conocido como el "Rey de la Selva" y vive en manadas en las llanuras y sabanas. El leopardo es un depredador ágil y sigiloso, mientras que el elefante africano es el mamífero terrestre más grande del mundo y juega un papel crucial en los ecosistemas. El rinoceronte y el búfalo africano que es un herbívoro robusto conocido por su naturaleza imponente y su comportamiento gregario.
+
+         <p/>
+                 
+            <hr/>
+
+             <h3>Aves</h3>
+             
+           <p>
+       Este maravilloso continente es el hogar de una gran variedad de aves, con más de 1,500 especies diferentes, muchas de las cuales viven allí todo el año o solo temporalmente. En las regiones tropicales de África, encontrarás aves únicas que no se encuentran en ninguna otra parte del mundo. Estas incluyen a las avestruces, pájaros sol y aves secretarias. También hay muchas familias de pájaros cantores, como los Chaetopidae y Picathartidae. En cuanto a las aves más comunes, puedes ver loros de colores brillantes, grullas elegantes y avutardas majestuosas. También hay una variedad de cigüeñas, y puedes encontrar aves coloridas como el abejaruco y diferentes tipos de faisanes.</p>
+<br/>
+ 
+      <img src="https://img.freepik.com/fotos-premium/flamencos-rosados-parque-nacional-brasil_73966-2496.jpg" alt="Imagen 2"   width="296">
+             
+             
+        <img src="https://www.avesypajaros.com/Imagenes/agapornis-enamorados.jpg" alt="Imagen 2"   width="296">
+             
+              <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/150470465/large.jpg" alt="Imagen 2"   width="299">
+   
+              <p>Las aves rapaces, como los halcones y águilas, abundan en el continente. Estas aves cazadoras son vitales para mantener el equilibrio en los ecosistemas africanos.
+Además, África alberga una gran cantidad de pequeñas aves cantoras, como petirrojos y gorriones. Una de las aves más comunes y abundantes en el continente es el Quelea quelea.
+         <p/>
+       <p> Aquí el canto de un canario africano:  <p/>
+              <audio controls>
+  <source src="http://www3.gobiernodecanarias.org/medusa/mediateca/ecoescuela/wp-content/uploads/sites/2/2013/11/Canario.mp3" type="audio/mpeg">
+</audio>    
+             
+             
+             
+            <hr/>
+
+             <h3>Reptiles</h3> <p>
+                África también destaca por su variedad de reptiles. Madagascar, por ejemplo, alberga la mayor diversidad de camaleones del mundo. En cuanto a las serpientes, hay diversas especies como cobras, víboras y culebras. También hay pitones, algunas de las cuales pueden ser sorprendentemente grandes. En el grupo de los lagartos, hay una amplia variedad de geckos que se encuentran en diferentes hábitats. Asimismo, existen lagartos de la familia Cordylidae y Lacertidae, así como agamas y varanos. Las amphisbaenias, también conocidas como lombrices de cristal, son un grupo interesante de reptiles que se encuentran en el continente. En cuanto a las tortugas, hay varios géneros que incluyen especies terrestres y acuáticas. Además, hay tres especies de cocodrilos que habitan en diferentes cuerpos de agua en África, como el cocodrilo del Nilo y el cocodrilo enano. <p/>
+             
+              <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Tortuga_carey_%28Eretmochelys_imbricata%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-28%2C_DD_56.jpg" alt="serpiente2" width="275">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Culebra_bastarda_%28Malpolon_monspessulanus%29%2C_Nig%C3%BCella%2C_Zaragoza%2C_Espa%C3%B1a%2C_2017-05-24%2C_DD_07.jpg" alt="serpiente2" width="333">
+             
+              <img src="https://live.staticflickr.com/4591/24334188197_1e32a2ddc3_b.jpg" alt="serpiente2" width="275">
+             
+             
+             
+             
+             
+             
+             
+             
+             <hr/>
+
+             <h3>Anfibios</h3> <p>  
+           
+               
+               
+               
+    <img src="https://c.pxhere.com/images/55/b1/477cfdb5004ae8e33e48f66b2d49-1600581.jpg!d" alt="Rana" width="490">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Grasfrosch-Rana-temporaria-side.jpg" alt="Rana" width="392">
+               
+               <br/>
+ 
+               África alberga una variedad de anfibios, casi todas de estas especies de anfibios, alrededor de 238 especies, son endémicas de la región.
+Dentro de estas familias, se encuentran especies como sapos, ranas arbóreas y ranas acuáticas. Por ejemplo, Bufonidae incluye géneros como Bufo y Capensibufo, mientras que Microhylidae incluye géneros como Breviceps y Callulina. Entre estas especies se encuentra la rana goliath, que habita en África Occidental y es conocida por ser la rana más grande del mundo. <p/>
+               <hr/>
+
+             <h3>Peces</h3> <p>  
+             
+              África es conocida por ser el continente más diverso en cuanto a peces de agua dulce, albergando aproximadamente 3.000 especies distintas. Una gran parte de esta biodiversidad se concentra en los Grandes Lagos de África Oriental, como el Victoria, Malawi y Tanganyika, constituyendo más de dos tercios de las cerca de 2000 especies de esta familia.
+En la región de los ríos costeros de África Occidental, se han identificado alrededor de 322 especies, siendo 247 de ellas exclusivas de esta área. Por otro lado, los ríos centrales albergan aproximadamente 194 especies, de las cuales 119 son endémicas y solo 33 están limitadas a áreas pequeñas. La diversidad marina es particularmente notable cerca de la costa del Océano Índico, donde se han registrado cerca de 2.000 especies.
+Entre los peces característicos de África se encuentran los perciformes, algunos peces con pulmones y characiformes.
+              <p/>
+              <p> Aquí unos vídeos sobre ecosistemas marinos, el primero de agua dulce y el segundo marino:<p/>
+              <br/>
+             
+             <iframe width="448" height="315" src="https://www.youtube.com/embed/D1bzV3H6kUk?si=1pZ3lx291hOVOQY_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              <iframe width="448" height="315" src="https://www.youtube.com/embed/oNMZ_Z6_TMY?si=JOuQDvzES9--VaLB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+             
+             
+                    <hr/>
+
+             <h3>Invertebrados</h3> <p>  
+              El continente africano alberga una diversidad impresionante de invertebrados. En África del Este, por ejemplo, se encuentran aproximadamente 400 especies de corales, junto con más de 400 especies de equinodermos. Además, se han identificado diversas especies de nematodos, incluyendo algunos que son parásitos humanos. En cuanto a los moluscos, los lagos de África oriental son hogar de una gran diversidad de especies de agua dulce, mientras que en la costa atlántica hay menos variedad de caracoles marinos en comparación con la región tropical del Océano Índico Occidental.<p/>
+   <img src= "https://www.eltiempo.com/files/image_1200_680/uploads/2023/06/20/64920ed2edef2.jpeg" width="506">
+             
+             
+          <img src= "https://t1.uc.ltmcdn.com/es/posts/3/5/0/como_son_los_animales_invertebrados_17053_paso_3_600.jpg" width="380">    
+             
+             
+             
+             
+             
+              <p>
+En el reino de los artrópodos, se han identificado alrededor de 8.000 especies de arácnidos en África, así como más de 1.000 especies de termitas. Además, se estima que alrededor del 10-20% de la riqueza mundial de especies de insectos se encuentra en África subsahariana. Entre estos, destacan unas 875 especies de libélulas y aproximadamente 3.607 especies de mariposas.
+Sin embargo, a pesar de esta abundancia de especies, el conocimiento sobre la fauna de invertebrados africanos sigue siendo limitado en muchos aspectos. <p/>
+             
+               <hr/> <p> Aquí una colección de imágenes en carrusel de la fauna africana. Deslice a la derecha para descubrilas. <p/>
+             
+             
+                       <div class="image-carousel">
+               
+               
+               
+               
+               
+               
+            <img src="https://images.pexels.com/photos/41178/africa-animal-big-carnivore-41178.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Leonas"   width="420" >
+            <img src="https://c.pxhere.com/photos/75/93/snake_toxic_green_tree_snake_reptile_dangerous_terrarium_green_tree_python-752998.jpg!d" alt="Serpiente"  width="187">
+               
+            <img src="https://images.pexels.com/photos/7228212/pexels-photo-7228212.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Cocodrilo con la boca abierta" width="420">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Suricatos_%28Suricata_suricatta%29%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_18.jpg/640px-Suricatos_%28Suricata_suricatta%29%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_18.jpg" alt="Pareja de suricatos" width="200" id="Fauna4">
+               
+                     <img src="  https://c.pxhere.com/images/7d/4a/8548da1f87bd4d4b0991a7f4dbfd-1600573.jpg!d" alt="Rana" width="498" id="Fauna5">
+               
+                <img src="  https://upload.wikimedia.org/wikipedia/commons/1/16/Tejedor_com%C3%BAn_%28Ploceus_cucullatus%29_hembra%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-25%2C_DD_53.jpg" alt="Pequeño pájaro amarillo" width="196,9" id="Fauna6">
+               
+       <img src="  https://images.pexels.com/photos/8791342/pexels-photo-8791342.jpeg" alt="Ecosistema de coral" width="421" id="Fauna7">
+               
+               
+              <img src="https://images.pexels.com/photos/13981667/pexels-photo-13981667.jpeg" alt="Medusa"   width="186.7" >  
+               
+               
+             
+    </section>      
+               
+           
+
+            <section id="flora">
+                <h2>Flora Única</h2>
+                <p>Claro, aquí tienes una versión más detallada:
+
+La flora de África es excepcionalmente rica y diversa, reflejando la variedad de climas y paisajes que se encuentran en el continente. África alberga una asombrosa cantidad de especies vegetales, con estimaciones que superan las 30,000 especies, muchas de las cuales son endémicas, es decir, se encuentran solo en África.
+
+En las regiones subtropicales y tropicales del continente, las selvas tropicales húmedas dominan la vegetación. Estas selvas, presentes en áreas como el Congo y la cuenca del Amazonas, son algunas de las más diversas del mundo. Aquí, los árboles gigantes como la ceiba, el ébano y la caoba se elevan hacia el dosel, creando un microcosmos de vida vegetal y animal debajo. Las plantas epífitas, como las orquídeas y los helechos arbóreos, encuentran su hogar en las ramas de los árboles, aprovechando la humedad y la luz que filtran a través del dosel.<p/>  <img src="https://c.pxhere.com/photos/cd/fc/african_daisy_flower_nature_flora_beautiful_color_bloom_blossom-1158728.jpg!d" alt="Flor"   width="330" >
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Adansonia_grandidieri_02.jpg" alt="Baobab"  width="185">
+               
+            <img src="https://live.staticflickr.com/4094/4818555735_58fc7ecd91_b.jpg" alt="Flor paraíso" width="370">
+
+<p>En las vastas llanuras de África oriental y meridional, dominadas por ecosistemas de sabana, las acacias son árboles emblemáticos. Estos árboles resistentes han evolucionado para adaptarse a la sequía y al fuego, con raíces profundas y hojas que son una fuente importante de alimento para muchos herbívoros. Las acacias proporcionan sombra y refugio a una amplia gama de vida silvestre, desde los grandes herbívoros como elefantes y jirafas hasta los depredadores como leones y leopardos.
+
+En contraste, en las regiones áridas y semiáridas del norte y sur de África, la vegetación está adaptada a condiciones de sequía extrema. Aquí, los cactus, las suculentas y otras plantas xerófitas son comunes, con hojas carnosas y tallos que almacenan agua para sobrevivir durante los períodos de sequía. Estas plantas son esenciales para mantener la vida en los desiertos y estepas áridas, proporcionando alimento y refugio a una variedad de especies animales adaptadas a la vida en entornos áridos. <p/>   <img src="https://live.staticflickr.com/65/184343090_0c088b4220_b.jpg" alt="Aloe"   width="285" >
+            <img src="https://cdn.pixabay.com/photo/2016/01/23/06/20/africa-1157060_1280.jpg" alt="Flor3"  width="285">
+               
+            <img src="https://i.pinimg.com/474x/73/a6/ed/73a6edc638ef725494f82adf841c145b.jpg" alt="Flor2" width="321">
+
+<p>Además de estos ecosistemas principales, África también alberga una variedad de otros hábitats únicos, como los manglares costeros, los bosques de montaña y los humedales. Cada uno de estos ecosistemas tiene su propia flora característica y desempeña un papel crucial en el mantenimiento del equilibrio ecológico y el sustento de las comunidades humanas y animales que dependen de ellos.
+
+En resumen, la flora de África es una maravilla de la naturaleza, con una riqueza y diversidad incomparables. Desde las selvas tropicales exuberantes hasta las llanuras de la sabana y los desiertos áridos, las plantas de África han evolucionado para adaptarse a una amplia variedad de entornos, y son una parte integral de los ecosistemas del continente.
+
+
+
+
+</p>
+             
+               
+            </section>
+
+                    <section id="ecosistemas">
+                <h2>Ecosistemas</h2>
+                <p>
+África alberga una asombrosa variedad de ecosistemas, desde selvas tropicales hasta desiertos áridos.
+                      </p>
+               <ol>
+        <li>
+            <strong>Selvas Tropicales y Bosques Pluviales:</strong>
+            <p>Estas exuberantes selvas se encuentran principalmente en la cuenca del Congo, el oeste de África y partes de Madagascar. Son conocidas por su densidad y biodiversidad, con árboles altos que forman un dosel denso. Además de la ceiba y la caoba, se encuentran árboles como el árbol de lira y el árbol de caucho. Las lianas, epífitas y una multitud de plantas herbáceas crecen en el sotobosque. Estas selvas son el hogar de una gran variedad de especies, incluyendo gorilas, chimpancés, elefantes de bosque y una rica diversidad de aves y reptiles.</p>
+         
+         
+               <img src="https://as1.ftcdn.net/v2/jpg/03/09/34/96/1000_F_309349600_0aMQIXeAmRyge6Slf0Xk0MRHIUKGwV4m.jpg" alt="Aloe"   width="860"
+         
+         
+         
+        </li>
+        <li>
+            <strong>Sabanas y Praderas:</strong>
+            <p>Las extensas sabanas de África oriental y meridional son un ecosistema icónico del continente. Caracterizadas por pastizales intercalados con árboles dispersos, como las acacias, estas llanuras albergan una gran cantidad de vida silvestre, incluyendo manadas de herbívoros como ñus, cebras y gacelas, así como depredadores como leones, leopardos y hienas. Las sabanas son esenciales para la migración estacional de grandes mamíferos y son hogar de una gran diversidad de aves y reptiles.</p>
+        </li>
+        <li>
+            <strong>Desiertos y Zonas Áridas:</strong>
+            <p>El Sahara, el desierto del Kalahari y el desierto de Namib son algunos de los desiertos más grandes y áridos del mundo. Estos paisajes desérticos están dominados por dunas de arena, llanuras pedregosas y matorrales resistentes. Plantas adaptadas a la sequedad, como cactus, aloes y suculentas, sobreviven en estas condiciones extremas. Los animales que viven aquí, como el órix, el escarabajo de Namib y el camello, están adaptados para conservar agua y soportar temperaturas extremas.</p>    <br/>
+         
+           <iframe width="100%" height="400" frameborder="0" allow="xr-spatial-tracking; gyroscope; accelerometer" allowfullscreen scrolling="no" src="https://kuula.co/share/7lpz4?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1"></iframe>
+                     
+           
+     
+         
+         
+         
+         
+        </li>
+                <br/>
+        <li>
+            <strong>Bosques de Montaña:</strong>
+            <p>En las elevadas cordilleras de África, como las montañas de la Gran Grieta en África oriental y las montañas de Atlas en el norte de África, se encuentran bosques de montaña únicos y biodiversos. Estos bosques albergan una variedad de especies de plantas y animales adaptadas a las condiciones frescas y húmedas de las elevaciones más altas. Aquí se pueden encontrar especies como el simio dorado, el antílope de montaña y el colobo rojo, junto con una variedad de aves y reptiles endémicos.</p>
+        </li>
+        <li>
+            <strong>Manglares y Zonas Costeras:</strong>
+            <p>A lo largo de las costas de África, desde el este hasta el oeste, se encuentran extensos manglares que actúan como barreras naturales contra la erosión y proporcionan hábitats vitales para una variedad de vida marina y terrestre. Los manglares son hogar de especies como el manglar rojo, el manglar negro y el manglar blanco, así como una variedad de peces, crustáceos y aves acuáticas. Estos ecosistemas son cruciales para la protección de la costa y la conservación de la biodiversidad marina.</p>
+       
+
+         
+         
+         
+         
+         
+         
+        </li>
+        <li>
+            <strong>Humedales y Pantanos:</strong>
+            <p>África alberga una variedad de humedales y pantanos, desde los deltas fluviales hasta las marismas costeras. Estos ecosistemas son vitales para la conservación de la biodiversidad y proporcionan hábitats importantes para aves migratorias, peces y una variedad de especies de plantas acuáticas. Ejemplos destacados incluyen el delta del Okavango en el sur de África, el delta del Níger en el oeste y el lago Chad en el centro del continente.</p>
+        </li>
+    </ol>
+                     
+                     
+                 
+                 
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d40555844.385431014!2d19.562040874124616!3d0.5674079769899671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2ses!4v1706015960935!5m2!1ses!2ses" width="900" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>          
+                     
+             
+                   
+                     
+               
+            </section>
+         
+            <section id="historia">
+                <h2>Historia natural</h2>
+              <br/>
+             
+                <p>La historia natural de África se extiende a lo largo de millones de años, moldeada por una combinación de factores geológicos, climáticos y biológicos.
+                  Entre estos eventos se destaca la formación del Rift africano, un sistema de fracturas tectónicas que atraviesa el continente y ha dado lugar a la creación de montañas, valles y lagos como el Gran Valle del Rift y el lago Tanganica. Durante el Pleistoceno, África experimentó períodos de glaciación que afectaron profundamente su clima y paisaje, influyendo en la distribución de la vida silvestre y la evolución de adaptaciones para sobrevivir en condiciones cambiantes. La expansión de las sabanas africanas, caracterizadas por pastizales intercalados con árboles dispersos, ha sido fundamental para la evolución de grandes herbívoros y depredadores, y ha tenido un impacto duradero en la distribución de la vida silvestre en el continente. África es reconocida como el lugar de origen de los primeros homínidos y ancestros humanos, con importantes hallazgos fósiles como el Australopithecus afarensis ("Lucy") en Etiopía y el Homo habilis en Tanzania. La colonización humana introdujo nuevas especies, tecnologías y prácticas agrícolas que alteraron los paisajes naturales y las comunidades biológicas, llevando a la deforestación y la pérdida de hábitats.
+
+</p>
+             <img src="https://www.meisterdrucke.es/kunstwerke/500px/German_School_-_Prehistory_-_Tertiary_-_reconstruction_of_natural_environment_in_Europe_and_some_-_(MeisterDrucke-448237).jpg" alt="Aloe"   width="300" >  
+             
+             
+             
+             
+            <img src="https://www.esafrica.es/wp-content/uploads/2022/10/Moll-Herman-1710.-Map-of-Africa.-httpswww.laboiteverte.frevolution-des-cartes-de-lafrique.jpg" alt="Aloe"   width="358" >
+             
+             
+             
+            <img src="https://www.laverdad.es/xlsemanal/wp-content/uploads/sites/5/2022/11/animales-gigantes-prehistoria-depredadores-supervivencia-5.jpg" alt="Aloe"   width="230" >
+             
+             
+             
+             
+             
+             
+             
+             
+               
+            </section>
+
+            <section id="amenazas">
+                <h2>Amenazas a la biodiversidad</h2>
+              <br/>
+                <p> A pesar de la imagen idílica de la vida salvaje en África, con animales en libertad y una flora exuberante, existe una realidad preocupante.
+                   Detrás de esta aparente belleza y abundancia, se oculta una realidad preocupante: una serie de amenazas persistentes que ponen en peligro la supervivencia de la fauna y flora del continente.
+                  <p/>
+               
+              <p>
+                Entre estas amenazas se encuentran la pérdida de hábitat debido a la expansión agrícola, la urbanización y la deforestación, que fragmentan y destruyen los entornos naturales indispensables para la vida silvestre. La caza furtiva y el tráfico ilegal de vida silvestre son actividades devastadoras que impactan a animales icónicos como el elefante africano y el rinoceronte, cuyas poblaciones han disminuido drásticamente debido a la demanda de sus colmillos y cuernos en el mercado negro. Además, muchas especies de primates, grandes felinos y pangolines sufren de la caza ilegal para el comercio de mascotas, pieles y partes del cuerpo. El cambio climático es otra amenaza crítica que altera los patrones de temperatura, precipitación y disponibilidad de agua en África, afectando la distribución y la salud de la biodiversidad del continente. Esto puede tener consecuencias devastadoras para ecosistemas sensibles como los arrecifes de coral, los manglares y los bosques tropicales. <p/>
+             
+             
+             
+             
+              <img src="https://www.nationalgeographic.com.es/medio/2018/05/22/hienas-en-un-vertedero_6e103adf.jpg" alt="Aloe"   width="260" >  
+             
+             
+             
+             
+            <img src="https://e.rpp-noticias.io/xlarge/2017/10/19/463646_504427.jpg" alt="Aloe"   width="310" >
+             
+             
+             
+                 <img src="https://static.eldiario.es/clip/12856d97-e157-47ec-a27b-f668699babd4_16-9-aspect-ratio_default_0.jpg" alt="Aloe"   width="310" >
+             
+             
+             
+             
+             
+             
+             
+             
+              <p>
+
+La contaminación del aire, del agua y del suelo debido a actividades industriales, agrícolas y mineras está causando estragos en la biodiversidad africana, contaminando hábitats y provocando enfermedades en la vida silvestre. Además, la degradación del suelo y la pérdida de la fertilidad del mismo están disminuyendo la capacidad de los ecosistemas para mantener la vida silvestre.
+Los conflictos armados y los disturbios civiles en algunas regiones de África también representan una amenaza para la biodiversidad, causando la destrucción de hábitats y la interrupción de las iniciativas de conservación. Estas amenazas no solo impactan a la fauna y flora africana, sino que también tienen repercusiones en las comunidades locales que dependen de los recursos naturales para su subsistencia y bienestar.
+             
+              <p/>
+             
+             
+             
+             
+             
+             
+            </section>
+
+            <section id="protección">
+                <h2>Protección del medio</h2>
+                <p>La conservación de la biodiversidad en África es crucial no solo por su valor y su papel en los ecosistemas globales, sino también por su importancia para la salud, el sustento y el bienestar de las personas que dependen de ella. Para abordar las amenazas que enfrenta la biodiversidad en África, se están implementando una serie de estrategias y acciones a nivel local, nacional e internacional. Algunas de estas acciones incluyen:
+
+
+<ul>
+    <li><strong>Conservación de hábitats: </strong>Se están estableciendo y ampliando áreas protegidas, parques nacionales y reservas naturales en toda África para proteger los hábitats críticos y proporcionar refugio a la vida silvestre. Organizaciones como la Unión Internacional para la Conservación de la Naturaleza (UICN) y el Fondo Mundial para la Naturaleza (WWF) trabajan en colaboración con gobiernos y comunidades locales para gestionar y conservar estos espacios.</li>
+    <li><strong>Combate a la caza furtiva:</strong> Se están implementando medidas de aplicación de la ley más estrictas y programas de vigilancia para combatir la caza furtiva de especies en peligro, como elefantes y rinocerontes. Organizaciones como Save the Elephants y Save the Rhino International trabajan para proteger a estas especies y combatir la caza furtiva en África.</li>
+    <li><strong>Desarrollo sostenible:</strong> Se están promoviendo prácticas de desarrollo sostenible que equilibren la conservación de la biodiversidad con las necesidades de las comunidades locales. Proyectos de ecoturismo, agricultura sostenible y manejo forestal comunitario están ayudando a generar ingresos para las comunidades locales mientras se protegen los recursos naturales.</li>
+    <li><strong>Educación y concienciación:</strong> Se están llevando a cabo programas de educación ambiental y concienciación pública para destacar la importancia de la conservación de la biodiversidad y fomentar la participación de la sociedad civil en la protección del medio ambiente. Organizaciones como African Wildlife Foundation y Wildlife Conservation Society trabajan en programas educativos y de sensibilización en toda África.</li>
+</ul>
+</p>
+             
+             
+               <img src="https://barbarapicci.files.wordpress.com/2020/04/final-farewell-alain-schroeder-belgium.jpg" alt="Aloe"   width="270" >
+             
+                          <img src="https://static.nationalgeographic.es/files/styles/image_3200/public/paula20kahumbu20cr20charlie20hamilton20james20nationalgeographic_278890620o3d.jpg?w=1600" alt="Aloe"   width="270" >
+             
+                          <img src="https://i.ytimg.com/vi/tG1ixqRFP7Y/maxresdefault.jpg" alt="Aloe"   width="320" >
+             
+             
+             
+             
+             
+             
+ <p>  Algunos recursos para obtener más información y apoyar la conservación de la fauna y flora africana incluyen:              
+             <p/>
+             
+            <p>  <h3><a href="https://www.iucn.org/es/oficina-regional/africa">Sitio web de la UICN África</a></h3>
+    Ofrece información sobre programas de conservación en toda África y recursos para involucrarse en iniciativas de conservación.
+    <h3><a href="https://www.savetheelephants.org">Save the Elephants</a></h3>
+  Organización dedicada a la protección de elefantes africanos y sus hábitats. Ofrece información sobre la situación de los elefantes y cómo involucrarse en su protección.
+
+    <h3><a href="https://www.savetherhino.org">Save the Rhino International</a></h3>
+   Organización dedicada a la protección de rinocerontes africanos. Proporciona información sobre la situación de los rinocerontes y cómo apoyar sus esfuerzos de conservación.</p>
+
+             
+             
+             
+            </section>
+        </main>
+
+        <aside>
+           
+            <h2>Webs similares</h2>
+           
+     <br/>
+         
+           <a href="https://www.awf.org/" target="_blank">
+  <img src="https://wildaid.org/wp-content/uploads/2021/08/african-wildlife-foundation-logo-white.png" alt="Símbolo AWF"  width="170"  >
+</a>
+<p>African Wildlife Foundation</p>
+         
+          <hr/>
+          <br/>
+         
+         
+          <a href="https://viajes.nationalgeographic.com.es/z/africa" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" alt="Símbolo NTA"  width="170"  >
+</a><p>National Geographic - África</p>
+     
+         
+        </aside>
+       
+    </article>
+
+    <footer>
+        <p> © 2024 Medio Natural de África.
+          Diego Cabrera Martín</p>
+     
+    </footer>
+
+</body>
+
+</html>
